@@ -18,3 +18,9 @@ function findAge(tugilganYil){
 
 let age = findAge(2001); //Javobi 27
 console.log(age); 
+
+function topish(x) {
+    return x-2
+}
+
+
