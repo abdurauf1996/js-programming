@@ -16,7 +16,7 @@ function findAge(tugilganYil){
 let age = findAge(1996);
  console.log(age); 
 
- function topishD(v=10,h=12){
+ function topishD(v,h){
     return v+h+12
  }
 let d = topishD(100,200)
