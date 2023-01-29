@@ -21,5 +21,11 @@ let age = findAge(1996);
  }
 let d = topishD(100,200)
 console.log(d);
+function sevara(y,a){
+    return y**a
+}
+let daraja = sevara(2,3);
+console.log(daraja);
+
 
 

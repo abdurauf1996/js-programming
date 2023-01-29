@@ -19,7 +19,7 @@ let age = yoshTopish(2001);
  console.log( logi);
   
  function yosh(dadam,onam){
-    return dadam-onam
+    return dadam-onamn
  }
 let farqi = yosh (1969,1974)
 console.log(farqi);
