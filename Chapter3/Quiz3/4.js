@@ -10,7 +10,7 @@ let z = x == x;
 // let x = true;
 // let y = false;
 // let z = y == y;
-//  budna z= true
+//  budna z= false
 
 // let x = true;
 // let y = false;
