@@ -1,8 +1,2 @@
-let planet = "yer"
-var name = "deen"
-
-
-
-
-
-
+let planet = "yer";
+var name = "deen";

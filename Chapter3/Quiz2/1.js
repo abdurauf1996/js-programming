@@ -1,7 +1,5 @@
-
-function parametrP(l,W){
-    return 2*(l+W);
+function parametrP(l, W) {
+  return 2 * (l + W);
 }
-let param = parametrP(2,3);
+let param = parametrP(2, 3);
 console.log(param);
-

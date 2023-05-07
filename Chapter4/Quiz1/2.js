@@ -49,4 +49,4 @@ function and(a, b, c, d) {
     return `${d},${c},${b},${a}`;
   }
 }
-console.log(and(-2000, -1100, 5, 99));
+console.log(and(1996, 96, 01, 2005));
